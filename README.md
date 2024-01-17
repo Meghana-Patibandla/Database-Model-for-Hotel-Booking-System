@@ -11,6 +11,11 @@ Hotel Booking System is a revolutionary data modeling system designed for the ho
 - **Guest Experience**: Enhance guest satisfaction through an easy-to-use online booking system.
 - **Business Intelligence**: Offer insights into room popularity to inform hotel infrastructure decisions.
 
+## ER Diagrams and Data Dictionary
+
+- Detailed Entity-Relationship diagrams provided to visualize the database structure.
+- A comprehensive data dictionary uploaded separately for in-depth field descriptions.
+
 ## Features
 
 - **Advanced Search**: Empower users to find the best options efficiently.
@@ -50,8 +55,3 @@ Hotel Booking System is a revolutionary data modeling system designed for the ho
 ## Data Security and Access
 
 - Robust access management system ensuring data is secure from unauthorized access, yet readily available to stakeholders.
-
-## ER Diagrams and Data Dictionary
-
-- Detailed Entity-Relationship diagrams provided to visualize the database structure.
-- A comprehensive data dictionary uploaded separately for in-depth field descriptions.
